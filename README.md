@@ -8,4 +8,6 @@ This app uses Shopify API & Freshdesk API.
 
 
 # Steps to run:
-TODO
+```shell
+./gradlew run
+```
